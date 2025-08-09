@@ -1,0 +1,21 @@
+/* Add this to your index.css or component-specific CSS file */
+.force-light-theme {
+  /* Override dark theme variables with light theme values */
+  --background: var(--base-50);
+  --foreground: var(--base-800);
+  --card: var(--color-white);
+  --card-foreground: var(--base-800);
+  --popover: var(--color-white);
+  --popover-foreground: var(--base-800);
+  --muted: var(--base-100);
+  --muted-foreground: var(--base-600);
+  --accent: var(--base-100);
+  --accent-foreground: var(--base-800);
+  --border: var(--base-200);
+  --input: var(--base-300);
+  --sidebar: var(--color-white);
+  --sidebar-foreground: var(--base-800);
+  --sidebar-accent: var(--base-50);
+  --sidebar-accent-foreground: var(--base-800);
+  --sidebar-border: var(--base-200);
+}
