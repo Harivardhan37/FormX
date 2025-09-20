@@ -4,7 +4,7 @@ A full-stack form management application that allows users to create, submit, an
 ## 🚀 Tech Stack
 - **Frontend**: React, CSS  
 - **Backend**: Express.js, Node.js  
-- **Database**: MongoDB (or update if using another DB)  
+- **Database**: Postgres 
 - **API Handling**: Axios  
 
 ## ✨ Features
