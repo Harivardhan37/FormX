@@ -19,5 +19,3 @@ A full-stack form management application that allows users to create, submit, an
 ### 👤 User Experience
 - Simple and intuitive UI  
 - Responsive design for desktop and mobile  
-
-## 📂 Project Structure
